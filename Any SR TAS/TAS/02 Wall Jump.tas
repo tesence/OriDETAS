@@ -240,7 +240,7 @@
 37,Left
 
 ### WAIT FOR THE DOOR TO OPEN
-266,Down
+266,Down,Pos,-11.9886141,-220.352335
 1,Down,Jump
 27,Left,Jump
 33,Left
@@ -282,7 +282,7 @@
 15,Left
 15,Left,Jump
 58,Left
-1,Down
+1,Down,Pos,-135.714478,-216.720474
 1,Down,Jump
 12
 5,Right
